@@ -30,4 +30,6 @@ Natural Language Generation (NLG) is a subfield of **Natural Language Processing
 - **Streamlit**
 
 ---
+##output
+<img width="802" height="889" alt="image" src="https://github.com/user-attachments/assets/51b93d6f-f4a3-4b9e-9347-7bce257a3653" />
 
